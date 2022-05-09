@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sonic speed model
+* source:	https://sketchfab.com/3d-models/sonic-speed-model-1e894bd6645143b088723078923e1729
+* author:	atemarabella (https://sketchfab.com/atemarabella)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sonic speed model" (https://sketchfab.com/3d-models/sonic-speed-model-1e894bd6645143b088723078923e1729) by atemarabella (https://sketchfab.com/atemarabella) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
